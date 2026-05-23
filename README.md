@@ -1,6 +1,6 @@
-# Bank Complaint Intelligence System — Nigerian Tier-1 Bank
+# Bank Complaint Intelligence System, Nigerian Tier-1 Bank
 
-Transforms 15,000 monthly customer complaints from reactive chaos into proactive intelligence — with smart routing, sentiment spike alerts, and RAG-powered agent assistance.
+Transforms 15,000 monthly customer complaints from reactive chaos into proactive intelligence, with smart routing, sentiment spike alerts, and RAG-powered agent assistance.
 
 ## Problem
 A tier-1 Nigerian bank receives 15,000 complaints/month across Twitter, email, WhatsApp, and app. 90% handled reactively. No visibility into which products are failing or when a PR crisis is brewing.
